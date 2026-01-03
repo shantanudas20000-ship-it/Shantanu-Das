@@ -13,4 +13,4 @@
 - C Programming Practice (Basics, Loops, Arrays, Functions)
 
 ### 📫 Connect with me
-- GitHub: https://github.com/ShantanuDas20000
+- GitHub: https://github.com/ShantanuDas20000-ship-it
